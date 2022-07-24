@@ -3,7 +3,7 @@ title: "How to access iCloud Drive from terminal"
 tags: ["mac", "bash", "terminal", "iCloud"]
 description: ""
 date: 2022-07-24T15:54:12+02:00
-draft: true
+draft: false
 ---
 # Access iCloud Drive from terminal
 

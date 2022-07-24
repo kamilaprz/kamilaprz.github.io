@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terminal on Quick notes</title>
+    <link>https://kamilaprz.github.io/tags/terminal/</link>
+    <description>Recent content in terminal on Quick notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 24 Jul 2022 15:54:12 +0200</lastBuildDate><atom:link href="https://kamilaprz.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to access iCloud Drive from terminal</title>
+      <link>https://kamilaprz.github.io/post/how_to_access_icloud_drive_from_terminal/</link>
+      <pubDate>Sun, 24 Jul 2022 15:54:12 +0200</pubDate>
+      
+      <guid>https://kamilaprz.github.io/post/how_to_access_icloud_drive_from_terminal/</guid>
+      <description>Access iCloud Drive from terminal Having an iCloud account allows keeping files in sync, despite which machine one is working on. As it is very straightforward to manage folders and files via Finder, it is rather cumbersome to access these items via terminal.
+If you are a developer it is highly likely you are using terminal often, to develop, create config files, write notes and more. It is surely useful to keep all this files in the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>
