@@ -1,7 +1,9 @@
 ---
 title: "How to access iCloud Drive from terminal"
 tags: ["mac", "bash", "terminal", "iCloud"]
-description: ""
+description: "If you are a developer it is highly likely you are using terminal often, to develop, create config files,
+write notes and more.
+It is surely useful to keep all this files in the cloud. "
 date: 2022-07-24T15:54:12+02:00
 draft: false
 ---
