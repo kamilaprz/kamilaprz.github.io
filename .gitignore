@@ -1,0 +1,4 @@
+**/.DS_STORE
+.idea
+/.hugo_build.lock
+public/*
