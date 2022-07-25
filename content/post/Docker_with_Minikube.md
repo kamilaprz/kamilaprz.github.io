@@ -3,7 +3,7 @@ title: "Docker with Minikube and Testcontainers"
 description: "After Dockers' subscription plan has changed, many are looking for an alternative solution, to run their containers while on MacOs. Minikube is definitely an option to consider, to spin up Linux VM and run containers in."
 tags: ["mac", "docker", "minikube", "container", "docker desktop", "testcontainers"]
 date: 2022-07-25T07:52:44+02:00
-draft: true
+draft: false
 ---
 
 # Docker subscription model
